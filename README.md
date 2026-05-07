@@ -1,4 +1,4 @@
-# 🚨 Incident Response Playbooks — NIST 800-61 & SOC Operations Case Study
+# 🚨 Incident Response Governance Playbooks — NIST 800-61 & Operational Resilience Framework
 
 This project contains a full suite of **Incident Response (IR) Playbooks** aligned with industry standards:
 - **NIST SP 800-61 (Computer Security Incident Handling Guide)**
@@ -6,12 +6,14 @@ This project contains a full suite of **Incident Response (IR) Playbooks** align
 - **ISO 27035 (Incident Management)**
 - **MITRE ATT&CK Framework**
 
-These playbooks demonstrate enterprise-grade IR capability suitable for:
-- SOC teams  
-- Cybersecurity Consultants  
-- IR Analysts  
-- Blue Team Operations  
-- MSSP environments  
+These playbooks demonstrate governance-oriented incident response capabilities suitable for:
+
+- Cyber Risk teams
+- Technology Risk consultants
+- Security Governance programs
+- Incident Management teams
+- Audit & Compliance functions
+- Enterprise security operations
 
 ---
 
